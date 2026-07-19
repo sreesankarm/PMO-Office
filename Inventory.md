@@ -3,3 +3,4 @@
 - Laptop
 - Monitor
 - Keyboard
+- Mouse
